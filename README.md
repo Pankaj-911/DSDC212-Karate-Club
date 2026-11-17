@@ -8,8 +8,6 @@ NetworkX on Zachary's Karate Club network, with visualisations, node metrics and
 | File / folder | Description |
 |---|---|
 | `DSC212_Modularity_Karate_Club.ipynb` | The submission notebook (code, explanations, outputs, plots, discussion) |
-| `requirements.txt` | Python packages needed |
-| `SUBMISSION_CHECKLIST.md` | Task-by-task checklist |
 | `GITHUB_UPLOAD.md` | How to publish the repository |
 
 ## What the notebook does
